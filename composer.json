@@ -1,0 +1,7 @@
+{
+  "name": "ivanvgladkov/solr-similar-search",
+  "description": "Similarity search for solr",
+  "require": {
+    "php": ">=7.4"
+  }
+}
