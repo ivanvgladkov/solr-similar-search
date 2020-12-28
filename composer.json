@@ -1,6 +1,7 @@
 {
   "name": "ivanvgladkov/solr-similar-search",
   "description": "Similarity search for solr",
+  "version": "0.0.1",
   "require": {
     "php": ">=7.4"
   },
