@@ -1,7 +1,8 @@
 <?php
 
-namespace SolrSimilarSearch\Functions;
-use SolrSimilarSearch\Interfaces\Stringable;
+namespace Solrsim\Func;
+
+use Solrsim\Interfaces\Stringable;
 
 class Sum implements Stringable
 {

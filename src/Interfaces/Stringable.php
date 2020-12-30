@@ -1,6 +1,6 @@
 <?php
 
-namespace SolrSimilarSearch\Interfaces;
+namespace Solrsim\Interfaces;
 
 interface Stringable
 {

@@ -1,11 +1,11 @@
 {
   "name": "ivanvgladkov/solr-similar-search",
   "description": "Similarity search for solr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "require": {
     "php": ">=7.4"
   },
   "autoload": {
-    "psr-4": {"SolrSimilarSearch\\": "src/"}
+    "psr-4": {"Solrsim\\": "src/"}
   }
 }
